@@ -37,15 +37,17 @@ A CMGT student at Saxion University of Applied Sciences<br>
             <span><strong>C#</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
             </td>
+            <a href="https://unity.com/" target="_blank">
             <td width="80px" align="center">
             <span><strong>Unity</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
             </td>
+            <a/>
             <td width="80px" align="center">
             <span><strong>GitHub</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
             <td width="80px" align="center">
-            <span><strong>Jvascript</strong></span><br>
+            <span><strong>Javascript</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
             </td>
         </tr>
