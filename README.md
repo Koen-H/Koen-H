@@ -1,16 +1,54 @@
-### Hi there 👋
+# Hi there I'm Koen
+<a href="https://github.com/Koen-H">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=koen-h&show_icons=true&count_private=true"><br>
+</a>
 
-<!--
-**Koen-H/Koen-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ### I'm also:
+A Gamedeveloper<br>
+A Webdeveloper<br>
+A CMGT student of Saxion University of Applied Sciences<br>
+## My skills
+<a href="https://github.com/Koen-H">
+  <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koen-H&layout=compact&count_private=true">
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In my life as programmer I've learned multiple languages & engines such as:
+<table width="320px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>PHP</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>MySQL</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>HTML</strong></span><br>
+            <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>CSS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>C#</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Unity</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
+            </td>
+            <td width="80px" align="center">
+            <span><strong>GitHub</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+            <td width="80px" align="center">
+            <span><strong>Jvascript</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+            </td>
+        </tr>
+    </tbody>
+</table>
