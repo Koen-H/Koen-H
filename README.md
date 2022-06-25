@@ -12,7 +12,6 @@ A CMGT student at Saxion University of Applied Sciences<br>
   <img  align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koen-H&layout=compact&count_private=true">
 </a>
 
-In my life as programmer I've learned multiple languages & engines such as:
 <table width="320px">
     <tbody>
         <tr valign="top">
